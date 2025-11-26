@@ -338,7 +338,7 @@ const UserDetail = () => {
           <div className="user-info-view">
             {!isAdmin() && currentUser._id === user._id && (
               <div style={{ 
-                background: '#f8f9fa', 
+                background: '#e7f3ff', 
                 padding: '15px', 
                 borderRadius: '8px', 
                 marginBottom: '20px',
